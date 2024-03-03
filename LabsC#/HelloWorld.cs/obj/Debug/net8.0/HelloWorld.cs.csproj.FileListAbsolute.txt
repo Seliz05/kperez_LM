@@ -1,0 +1,15 @@
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\HelloWorld.cs\bin\Debug\net8.0\HelloWorld.cs.exe
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\HelloWorld.cs\bin\Debug\net8.0\HelloWorld.cs.deps.json
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\HelloWorld.cs\bin\Debug\net8.0\HelloWorld.cs.runtimeconfig.json
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\HelloWorld.cs\bin\Debug\net8.0\HelloWorld.cs.dll
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\HelloWorld.cs\bin\Debug\net8.0\HelloWorld.cs.pdb
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\HelloWorld.cs\obj\Debug\net8.0\HelloWorld.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\HelloWorld.cs\obj\Debug\net8.0\HelloWorld.cs.AssemblyInfoInputs.cache
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\HelloWorld.cs\obj\Debug\net8.0\HelloWorld.cs.AssemblyInfo.cs
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\HelloWorld.cs\obj\Debug\net8.0\HelloWorld.cs.csproj.CoreCompileInputs.cache
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\HelloWorld.cs\obj\Debug\net8.0\HelloWorld.cs.sourcelink.json
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\HelloWorld.cs\obj\Debug\net8.0\HelloWorld.cs.dll
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\HelloWorld.cs\obj\Debug\net8.0\refint\HelloWorld.cs.dll
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\HelloWorld.cs\obj\Debug\net8.0\HelloWorld.cs.pdb
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\HelloWorld.cs\obj\Debug\net8.0\HelloWorld.cs.genruntimeconfig.cache
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\HelloWorld.cs\obj\Debug\net8.0\ref\HelloWorld.cs.dll
