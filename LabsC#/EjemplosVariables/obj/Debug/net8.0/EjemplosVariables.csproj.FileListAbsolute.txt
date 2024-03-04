@@ -1,0 +1,15 @@
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\EjemplosVariables\bin\Debug\net8.0\EjemplosVariables.exe
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\EjemplosVariables\bin\Debug\net8.0\EjemplosVariables.deps.json
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\EjemplosVariables\bin\Debug\net8.0\EjemplosVariables.runtimeconfig.json
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\EjemplosVariables\bin\Debug\net8.0\EjemplosVariables.dll
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\EjemplosVariables\bin\Debug\net8.0\EjemplosVariables.pdb
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\EjemplosVariables\obj\Debug\net8.0\EjemplosVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\EjemplosVariables\obj\Debug\net8.0\EjemplosVariables.AssemblyInfoInputs.cache
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\EjemplosVariables\obj\Debug\net8.0\EjemplosVariables.AssemblyInfo.cs
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\EjemplosVariables\obj\Debug\net8.0\EjemplosVariables.csproj.CoreCompileInputs.cache
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\EjemplosVariables\obj\Debug\net8.0\EjemplosVariables.sourcelink.json
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\EjemplosVariables\obj\Debug\net8.0\EjemplosVariables.dll
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\EjemplosVariables\obj\Debug\net8.0\refint\EjemplosVariables.dll
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\EjemplosVariables\obj\Debug\net8.0\EjemplosVariables.pdb
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\EjemplosVariables\obj\Debug\net8.0\EjemplosVariables.genruntimeconfig.cache
+C:\Users\cheit\OneDrive\Documents\INTER\COMP2315\COMP2315_LM\LabsC#\EjemplosVariables\obj\Debug\net8.0\ref\EjemplosVariables.dll
