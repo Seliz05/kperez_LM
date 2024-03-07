@@ -1,0 +1,15 @@
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemploCaptura\bin\Debug\net8.0\EjemploCaptura.exe
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemploCaptura\bin\Debug\net8.0\EjemploCaptura.deps.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemploCaptura\bin\Debug\net8.0\EjemploCaptura.runtimeconfig.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemploCaptura\bin\Debug\net8.0\EjemploCaptura.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemploCaptura\bin\Debug\net8.0\EjemploCaptura.pdb
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemploCaptura\obj\Debug\net8.0\EjemploCaptura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemploCaptura\obj\Debug\net8.0\EjemploCaptura.AssemblyInfoInputs.cache
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemploCaptura\obj\Debug\net8.0\EjemploCaptura.AssemblyInfo.cs
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemploCaptura\obj\Debug\net8.0\EjemploCaptura.csproj.CoreCompileInputs.cache
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemploCaptura\obj\Debug\net8.0\EjemploCaptura.sourcelink.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemploCaptura\obj\Debug\net8.0\EjemploCaptura.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemploCaptura\obj\Debug\net8.0\refint\EjemploCaptura.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemploCaptura\obj\Debug\net8.0\EjemploCaptura.pdb
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemploCaptura\obj\Debug\net8.0\EjemploCaptura.genruntimeconfig.cache
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemploCaptura\obj\Debug\net8.0\ref\EjemploCaptura.dll
