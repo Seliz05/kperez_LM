@@ -25,7 +25,7 @@ int main()
     cout << entero <<"\n";
     cout << flotante <<"\n";
     cout << caracter <<"\n";
-    cout << cadena <<"\n";
+    cout <<"Los datos entrados previamente son: " << cadena <<endl;
 
     return 0;
 }
