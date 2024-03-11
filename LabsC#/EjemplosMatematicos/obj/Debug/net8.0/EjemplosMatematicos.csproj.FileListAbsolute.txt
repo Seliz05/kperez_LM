@@ -1,0 +1,15 @@
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosMatematicos\bin\Debug\net8.0\EjemplosMatematicos.exe
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosMatematicos\bin\Debug\net8.0\EjemplosMatematicos.deps.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosMatematicos\bin\Debug\net8.0\EjemplosMatematicos.runtimeconfig.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosMatematicos\bin\Debug\net8.0\EjemplosMatematicos.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosMatematicos\bin\Debug\net8.0\EjemplosMatematicos.pdb
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosMatematicos\obj\Debug\net8.0\EjemplosMatematicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosMatematicos\obj\Debug\net8.0\EjemplosMatematicos.AssemblyInfoInputs.cache
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosMatematicos\obj\Debug\net8.0\EjemplosMatematicos.AssemblyInfo.cs
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosMatematicos\obj\Debug\net8.0\EjemplosMatematicos.csproj.CoreCompileInputs.cache
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosMatematicos\obj\Debug\net8.0\EjemplosMatematicos.sourcelink.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosMatematicos\obj\Debug\net8.0\EjemplosMatematicos.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosMatematicos\obj\Debug\net8.0\refint\EjemplosMatematicos.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosMatematicos\obj\Debug\net8.0\EjemplosMatematicos.pdb
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosMatematicos\obj\Debug\net8.0\EjemplosMatematicos.genruntimeconfig.cache
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosMatematicos\obj\Debug\net8.0\ref\EjemplosMatematicos.dll
