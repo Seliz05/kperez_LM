@@ -1,0 +1,15 @@
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosSeleccionSimple\bin\Debug\net8.0\EjemplosSeleccionSimple.exe
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosSeleccionSimple\bin\Debug\net8.0\EjemplosSeleccionSimple.deps.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosSeleccionSimple\bin\Debug\net8.0\EjemplosSeleccionSimple.runtimeconfig.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosSeleccionSimple\bin\Debug\net8.0\EjemplosSeleccionSimple.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosSeleccionSimple\bin\Debug\net8.0\EjemplosSeleccionSimple.pdb
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosSeleccionSimple\obj\Debug\net8.0\EjemplosSeleccionSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosSeleccionSimple\obj\Debug\net8.0\EjemplosSeleccionSimple.AssemblyInfoInputs.cache
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosSeleccionSimple\obj\Debug\net8.0\EjemplosSeleccionSimple.AssemblyInfo.cs
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosSeleccionSimple\obj\Debug\net8.0\EjemplosSeleccionSimple.csproj.CoreCompileInputs.cache
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosSeleccionSimple\obj\Debug\net8.0\EjemplosSeleccionSimple.sourcelink.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosSeleccionSimple\obj\Debug\net8.0\EjemplosSeleccionSimple.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosSeleccionSimple\obj\Debug\net8.0\refint\EjemplosSeleccionSimple.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosSeleccionSimple\obj\Debug\net8.0\EjemplosSeleccionSimple.pdb
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosSeleccionSimple\obj\Debug\net8.0\EjemplosSeleccionSimple.genruntimeconfig.cache
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EjemplosSeleccionSimple\obj\Debug\net8.0\ref\EjemplosSeleccionSimple.dll
