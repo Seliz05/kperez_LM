@@ -1,0 +1,15 @@
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EstructurasSeleccionAnidadas\bin\Debug\net8.0\EstructurasSeleccionAnidadas.exe
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EstructurasSeleccionAnidadas\bin\Debug\net8.0\EstructurasSeleccionAnidadas.deps.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EstructurasSeleccionAnidadas\bin\Debug\net8.0\EstructurasSeleccionAnidadas.runtimeconfig.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EstructurasSeleccionAnidadas\bin\Debug\net8.0\EstructurasSeleccionAnidadas.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EstructurasSeleccionAnidadas\bin\Debug\net8.0\EstructurasSeleccionAnidadas.pdb
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EstructurasSeleccionAnidadas\obj\Debug\net8.0\EstructurasSeleccionAnidadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EstructurasSeleccionAnidadas\obj\Debug\net8.0\EstructurasSeleccionAnidadas.AssemblyInfoInputs.cache
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EstructurasSeleccionAnidadas\obj\Debug\net8.0\EstructurasSeleccionAnidadas.AssemblyInfo.cs
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EstructurasSeleccionAnidadas\obj\Debug\net8.0\EstructurasSeleccionAnidadas.csproj.CoreCompileInputs.cache
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EstructurasSeleccionAnidadas\obj\Debug\net8.0\EstructurasSeleccionAnidadas.sourcelink.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EstructurasSeleccionAnidadas\obj\Debug\net8.0\EstructurasSeleccionAnidadas.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EstructurasSeleccionAnidadas\obj\Debug\net8.0\refint\EstructurasSeleccionAnidadas.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EstructurasSeleccionAnidadas\obj\Debug\net8.0\EstructurasSeleccionAnidadas.pdb
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EstructurasSeleccionAnidadas\obj\Debug\net8.0\EstructurasSeleccionAnidadas.genruntimeconfig.cache
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\EstructurasSeleccionAnidadas\obj\Debug\net8.0\ref\EstructurasSeleccionAnidadas.dll
