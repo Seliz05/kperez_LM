@@ -25,14 +25,17 @@ int main()
         }
     }
 
-    if (numeroEntradas > 10)
+    else //si esta no se cumple sigue con la próxima
     {
-       cout <<"A usted le aplica un descuento de 5%."; //si esta no se cumple sigue con la próxima
-    }
+        if (numeroEntradas > 10)
+        {
+            cout <<"A usted le aplica un descuento de 5%."; //si esta no se cumple sigue con la próxima
+        }
 
-    else //si ninguna de las anteriores se cumple este mensaje se imprime
-    {
-        cout <<"A usted no le aplica ningun descuento.";
+        else //si ninguna de las anteriores se cumple este mensaje se imprime
+        {
+            cout <<"A usted no le aplica ningun descuento.";
+        }
     }
     
     return 0;
