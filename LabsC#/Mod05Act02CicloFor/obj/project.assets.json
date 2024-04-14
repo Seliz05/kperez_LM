@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cheit\\OneDrive\\Documents\\INTER\\ene-mayo-2024\\COMP2315\\COMP2315_LM\\LabsC#\\LabsC#.csproj",
-      "projectName": "LabsC#",
-      "projectPath": "C:\\Users\\cheit\\OneDrive\\Documents\\INTER\\ene-mayo-2024\\COMP2315\\COMP2315_LM\\LabsC#\\LabsC#.csproj",
+      "projectUniqueName": "C:\\Users\\cheit\\OneDrive\\Documents\\INTER\\ene-mayo-2024\\COMP2315\\COMP2315_LM\\LabsC#\\Mod05Act02CicloFor\\Mod05Act02CicloFor.csproj",
+      "projectName": "Mod05Act02CicloFor",
+      "projectPath": "C:\\Users\\cheit\\OneDrive\\Documents\\INTER\\ene-mayo-2024\\COMP2315\\COMP2315_LM\\LabsC#\\Mod05Act02CicloFor\\Mod05Act02CicloFor.csproj",
       "packagesPath": "C:\\Users\\cheit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cheit\\OneDrive\\Documents\\INTER\\ene-mayo-2024\\COMP2315\\COMP2315_LM\\LabsC#\\obj\\",
+      "outputPath": "C:\\Users\\cheit\\OneDrive\\Documents\\INTER\\ene-mayo-2024\\COMP2315\\COMP2315_LM\\LabsC#\\Mod05Act02CicloFor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cheit\\AppData\\Roaming\\NuGet\\NuGet.Config"
