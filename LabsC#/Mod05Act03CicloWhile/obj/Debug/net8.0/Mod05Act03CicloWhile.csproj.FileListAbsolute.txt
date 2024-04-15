@@ -1,0 +1,5 @@
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act03CicloWhile\obj\Debug\net8.0\Mod05Act03CicloWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act03CicloWhile\obj\Debug\net8.0\Mod05Act03CicloWhile.AssemblyInfoInputs.cache
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act03CicloWhile\obj\Debug\net8.0\Mod05Act03CicloWhile.AssemblyInfo.cs
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act03CicloWhile\obj\Debug\net8.0\Mod05Act03CicloWhile.csproj.CoreCompileInputs.cache
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act03CicloWhile\obj\Debug\net8.0\Mod05Act03CicloWhile.sourcelink.json
