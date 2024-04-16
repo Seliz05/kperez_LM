@@ -6,14 +6,14 @@ namespace Mod05Act03CicloWhile
     {
         static void Main(string[] args)
         {
-            int i; //definicion de variables
+            int i = 1; //definicion de variables
             float sumaTemperatura;
             float promedio;
             
             //ciclo que permite imprimir el bloque de codigo dentro de las llaves hasta que se cumpla la condicion
-            while(i = 1; i <= 12);
+            while(i <= 12)
             {
-                i = i + 1; // suma de la variable i
+                
 
                 Console.WriteLine("Mes # " + i);//mensaje a imprimir 
 
@@ -23,7 +23,11 @@ namespace Mod05Act03CicloWhile
                 Console.WriteLine("Ingrese la temperatura del mes " +nombreMes+ " : ");//entrada de valores
                 float temperaturaMes = float.Parse(Console.ReadLine());
 
-                sumaTemperatura = sumaTemperatura + temperaturaMes; //suma de todas las temperaturas
+                
+                i = i + 1; // suma de la variable i
+
+               // sumaTemperatura = sumaTemperatura + temperaturaMes; //suma de todas las temperaturas
+                sumaTemperatura += temperaturaMes;
             }
 
             promedio = sumaTemperatura / 12; //division de la suma de las temperaturas entre 12

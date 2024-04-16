@@ -3,3 +3,13 @@ C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC
 C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act02CicloFor\obj\Debug\net8.0\Mod05Act02CicloFor.AssemblyInfo.cs
 C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act02CicloFor\obj\Debug\net8.0\Mod05Act02CicloFor.csproj.CoreCompileInputs.cache
 C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act02CicloFor\obj\Debug\net8.0\Mod05Act02CicloFor.sourcelink.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act02CicloFor\bin\Debug\net8.0\Mod05Act02CicloFor.exe
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act02CicloFor\bin\Debug\net8.0\Mod05Act02CicloFor.deps.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act02CicloFor\bin\Debug\net8.0\Mod05Act02CicloFor.runtimeconfig.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act02CicloFor\bin\Debug\net8.0\Mod05Act02CicloFor.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act02CicloFor\bin\Debug\net8.0\Mod05Act02CicloFor.pdb
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act02CicloFor\obj\Debug\net8.0\Mod05Act02CicloFor.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act02CicloFor\obj\Debug\net8.0\refint\Mod05Act02CicloFor.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act02CicloFor\obj\Debug\net8.0\Mod05Act02CicloFor.pdb
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act02CicloFor\obj\Debug\net8.0\Mod05Act02CicloFor.genruntimeconfig.cache
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act02CicloFor\obj\Debug\net8.0\ref\Mod05Act02CicloFor.dll

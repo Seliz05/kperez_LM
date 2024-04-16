@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Mod05Act02CicloFor/1.0.0": {
+        "runtime": {
+          "Mod05Act02CicloFor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mod05Act02CicloFor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

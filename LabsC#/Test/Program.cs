@@ -6,8 +6,8 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            numero = 0;
-            suma = 0;
+            int numero = 0;
+            int suma = 0;
 
             while(numero < 100)
             {
