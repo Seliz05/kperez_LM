@@ -7,20 +7,18 @@ namespace Mod05Act03CicloWhile
         static void Main(string[] args)
         {
             int i = 1; //definicion de variables
-            float sumaTemperatura;
+            float sumaTemperatura = 0;
             float promedio;
             
             //ciclo que permite imprimir el bloque de codigo dentro de las llaves hasta que se cumpla la condicion
             while(i <= 12)
             {
-                
-
                 Console.WriteLine("Mes # " + i);//mensaje a imprimir 
 
                 Console.Write("Ingrese el nombre del mes : ");//entrada de valores
                 string nombreMes = Console.ReadLine();
 
-                Console.WriteLine("Ingrese la temperatura del mes " +nombreMes+ " : ");//entrada de valores
+                Console.Write("Ingrese la temperatura del mes " +nombreMes+ " : ");//entrada de valores
                 float temperaturaMes = float.Parse(Console.ReadLine());
 
                 

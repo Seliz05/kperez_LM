@@ -3,3 +3,13 @@ C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC
 C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act03CicloWhile\obj\Debug\net8.0\Mod05Act03CicloWhile.AssemblyInfo.cs
 C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act03CicloWhile\obj\Debug\net8.0\Mod05Act03CicloWhile.csproj.CoreCompileInputs.cache
 C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act03CicloWhile\obj\Debug\net8.0\Mod05Act03CicloWhile.sourcelink.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act03CicloWhile\bin\Debug\net8.0\Mod05Act03CicloWhile.exe
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act03CicloWhile\bin\Debug\net8.0\Mod05Act03CicloWhile.deps.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act03CicloWhile\bin\Debug\net8.0\Mod05Act03CicloWhile.runtimeconfig.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act03CicloWhile\bin\Debug\net8.0\Mod05Act03CicloWhile.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act03CicloWhile\bin\Debug\net8.0\Mod05Act03CicloWhile.pdb
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act03CicloWhile\obj\Debug\net8.0\Mod05Act03CicloWhile.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act03CicloWhile\obj\Debug\net8.0\refint\Mod05Act03CicloWhile.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act03CicloWhile\obj\Debug\net8.0\Mod05Act03CicloWhile.pdb
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act03CicloWhile\obj\Debug\net8.0\Mod05Act03CicloWhile.genruntimeconfig.cache
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act03CicloWhile\obj\Debug\net8.0\ref\Mod05Act03CicloWhile.dll

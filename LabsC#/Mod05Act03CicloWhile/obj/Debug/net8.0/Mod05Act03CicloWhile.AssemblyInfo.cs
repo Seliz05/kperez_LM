@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mod05Act03CicloWhile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22f46eff9ffa9b5625eae651a81e845d27db773b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f3180d2f39d091cf973c7e117664f8629256cf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mod05Act03CicloWhile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mod05Act03CicloWhile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
