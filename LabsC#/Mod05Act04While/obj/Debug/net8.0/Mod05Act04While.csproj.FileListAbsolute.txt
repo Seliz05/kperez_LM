@@ -1,0 +1,15 @@
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act04While\obj\Debug\net8.0\Mod05Act04While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act04While\obj\Debug\net8.0\Mod05Act04While.AssemblyInfoInputs.cache
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act04While\obj\Debug\net8.0\Mod05Act04While.AssemblyInfo.cs
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act04While\obj\Debug\net8.0\Mod05Act04While.csproj.CoreCompileInputs.cache
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act04While\obj\Debug\net8.0\Mod05Act04While.sourcelink.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act04While\bin\Debug\net8.0\Mod05Act04While.exe
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act04While\bin\Debug\net8.0\Mod05Act04While.deps.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act04While\bin\Debug\net8.0\Mod05Act04While.runtimeconfig.json
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act04While\bin\Debug\net8.0\Mod05Act04While.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act04While\bin\Debug\net8.0\Mod05Act04While.pdb
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act04While\obj\Debug\net8.0\Mod05Act04While.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act04While\obj\Debug\net8.0\refint\Mod05Act04While.dll
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act04While\obj\Debug\net8.0\Mod05Act04While.pdb
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act04While\obj\Debug\net8.0\Mod05Act04While.genruntimeconfig.cache
+C:\Users\cheit\OneDrive\Documents\INTER\ene-mayo-2024\COMP2315\COMP2315_LM\LabsC#\Mod05Act04While\obj\Debug\net8.0\ref\Mod05Act04While.dll
