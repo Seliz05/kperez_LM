@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cheit\\OneDrive\\Documents\\INTER\\COMP2315\\COMP2315_LM\\LabsC#\\EjemplosVariables\\EjemplosVariables.csproj",
+      "projectUniqueName": "C:\\Users\\cheit\\OneDrive\\Documents\\INTER\\ene-mayo-2024\\COMP2315\\COMP2315_LM\\LabsC#\\EjemplosVariables\\EjemplosVariables.csproj",
       "projectName": "EjemplosVariables",
-      "projectPath": "C:\\Users\\cheit\\OneDrive\\Documents\\INTER\\COMP2315\\COMP2315_LM\\LabsC#\\EjemplosVariables\\EjemplosVariables.csproj",
+      "projectPath": "C:\\Users\\cheit\\OneDrive\\Documents\\INTER\\ene-mayo-2024\\COMP2315\\COMP2315_LM\\LabsC#\\EjemplosVariables\\EjemplosVariables.csproj",
       "packagesPath": "C:\\Users\\cheit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cheit\\OneDrive\\Documents\\INTER\\COMP2315\\COMP2315_LM\\LabsC#\\EjemplosVariables\\obj\\",
+      "outputPath": "C:\\Users\\cheit\\OneDrive\\Documents\\INTER\\ene-mayo-2024\\COMP2315\\COMP2315_LM\\LabsC#\\EjemplosVariables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cheit\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
