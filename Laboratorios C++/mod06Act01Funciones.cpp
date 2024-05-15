@@ -18,7 +18,7 @@ int main()
 }
 void totalVentasRealizadas(float ventasRealizadas)//definición de la Función
 {
-    if (ventasRealizadas < 1500)//si lo que se gano en las ventas en menos del 15% no obtiene el bono
+   if (ventasRealizadas < 1500)//si lo que se gano en las ventas en menos del 15% no obtiene el bono
    {//mensaje a imprimir
     cout <<"No se realizó el 15% o más de ventas para obtener el bono. Usted tiene un total de $" << ventasRealizadas <<" en ventas realizadas."<<endl;
    } 
